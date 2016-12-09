@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/diwao11/kanye-sounds/issues"
   },
-  "homepage": "https://github.com/diwao11/kanye-sounds#readme"
+  "homepage": "https://github.com/diwao11/kanye-sounds#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
