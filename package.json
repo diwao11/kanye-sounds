@@ -1,0 +1,20 @@
+{
+  "name": "kanye-sounds",
+  "version": "1.0.0",
+  "description": "### Vanilla JS to play Kanye sound bits.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwao11/kanye-sounds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diwao11/kanye-sounds/issues"
+  },
+  "homepage": "https://github.com/diwao11/kanye-sounds#readme"
+}
